@@ -1,7 +1,4 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/JEONGWOO0705/JEONGWOO0705/blob/main/image/Header.png" />
-</div>
+
 <!--
 **JEONGWOO0705/JEONGWOO0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
