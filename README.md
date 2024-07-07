@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <div align=center>
 <h3>🧸 Hi JEONGWOO's GITHUB 👋</h3>
 <p align="center">
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEONGWOO0705%2FJEONGWOO0705&count_bg=%23F43E9B&title_bg=%23FFFFFF&icon=probot.svg&icon_color=%23E30606&title=hits&edge_flat=false"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEONGWOO0705%2FJEONGWOO0705&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJEONGWOO0705%2FJEONGWOO0705&count_bg=%23B3F084&title_bg=%23838282&icon=husqvarna.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 
