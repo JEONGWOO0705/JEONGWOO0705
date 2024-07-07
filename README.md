@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=HI I AM JEONGWOOr&fontSize=90)
 
 <!--
 **JEONGWOO0705/JEONGWOO0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![JEONGWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGWOO0705)](https://github.com/JEONGWOO0705/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGWOO0705&show_icons=true&theme=radical)
