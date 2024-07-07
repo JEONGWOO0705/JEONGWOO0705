@@ -51,14 +51,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align=center>
-	<p>🎨 Portfolio & SNS 🎨</p>
-</div>
-<div align=center>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat-square&logo=githubsponsors&logoColor=white"/></a>&nbsp
-    <a href="mailto:1DvL2EOn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-F06B66?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-	<br>
-</div>
+
 <br>
 <br>
 
