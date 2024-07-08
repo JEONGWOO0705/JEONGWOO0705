@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+## Profile
+- Name : Hwang JeongWoo
+- Email : kgwjddn544@gmail.com
+- 🔭 I’m looking for a job!!
+  - ✨ Major : C#, C++, Python, Smart Factory, IoT Development
+  - ✨ Minor : Java, HTML
+
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
