@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-<h4>✨Name: Hwang JeongWoo 👋</h4>
-<h4>✨Email: kgwjddn544@gmail.com 👋</h4>
+<h4>✨ Name: Hwang JeongWoo 👋</h4>
+<h4>✨ Email: kgwjddn544@gmail.com 👋</h4>
 <h4>✨ I’m looking for a job!!</h4>
-<h4>✨ Major: C#, C++, Python, Smart Factory, IoT Development</h4>
+<h4>✨ Major : C#, C++, Python, Smart Factory, IoT Development</h4>
 	  
 </div>
 
